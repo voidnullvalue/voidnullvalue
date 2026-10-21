@@ -1,4 +1,4 @@
-|VOID|
+
 I build software, reverse-engineer hardware, and automate things that shouldn't need a human to babysit them.
 Usually it starts with something that's locked down, poorly documented, unnecessarily dependent on somebody else's server, or just irritating enough that I want to understand it.
 I work across Linux, Android, embedded systems, protocols, and process automation. I don't particularly care which layer the problem lives in.
